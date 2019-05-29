@@ -1,0 +1,478 @@
+road,weekday,hour,gravity
+A 11,0,3,0.0
+A 11,1,14,2.0
+A 11,1,16,0.0
+A 11,2,0,2.0
+A 11,2,10,2.0
+A 11,2,17,0.0
+A 11,2,18,1.0
+A 11,3,3,2.0
+A 11,3,4,2.0
+A 11,3,9,2.0
+A 11,3,11,2.0
+A 11,3,15,2.0
+A 11,5,11,2.0
+A 11,5,21,2.0
+Avenida António Macedo,0,17,0.0
+Avenida António Macedo,1,17,0.0
+Avenida António Macedo,1,18,0.0
+Avenida António Macedo,2,8,0.0
+Avenida António Macedo,2,9,0.0
+Avenida António Macedo,3,17,0.0
+Avenida António Macedo,3,18,0.0
+Avenida António Macedo,4,18,0.0
+Avenida António Macedo,4,19,0.0
+Avenida Central,1,14,2.0
+Avenida Central,1,17,2.0
+Avenida Central,1,18,0.0
+Avenida Central,4,18,2.0
+Avenida Clermont Ferrand,0,15,2.0
+Avenida Clermont Ferrand,0,16,2.0
+Avenida Clermont Ferrand,0,17,2.0
+Avenida Clermont Ferrand,0,18,1.0
+Avenida Clermont Ferrand,1,17,1.4285714285714286
+Avenida Clermont Ferrand,1,18,2.0
+Avenida Clermont Ferrand,2,14,0.0
+Avenida Clermont Ferrand,2,15,2.0
+Avenida Clermont Ferrand,2,16,1.0
+Avenida Clermont Ferrand,2,17,0.0
+Avenida Clermont Ferrand,2,18,0.0
+Avenida Clermont Ferrand,3,18,1.3333333333333333
+Avenida Clermont Ferrand,4,18,2.0
+Avenida Clermont Ferrand,4,19,1.3333333333333333
+Avenida Conde Dom Henrique,1,17,2.0
+Avenida Conde Dom Henrique,1,18,2.0
+Avenida Conde Dom Henrique,3,17,2.0
+Avenida Conde Dom Henrique,4,16,2.0
+Avenida Conde Dom Henrique,4,17,2.0
+Avenida Dom João II,1,13,2.0
+Avenida Dom João II,1,16,2.0
+Avenida Dom João II,1,17,2.0
+Avenida Dom João II,2,18,2.0
+Avenida Doutor Francisco Pires Gonçalves,1,10,2.0
+Avenida Francisco Salgado Zenha,2,18,1.0
+Avenida Frei Bartolomeu dos Mártires,0,17,0.5
+Avenida Frei Bartolomeu dos Mártires,1,17,1.0
+Avenida Frei Bartolomeu dos Mártires,1,18,1.0
+Avenida Frei Bartolomeu dos Mártires,2,8,0.0
+Avenida Frei Bartolomeu dos Mártires,2,17,1.0
+Avenida Frei Bartolomeu dos Mártires,2,18,1.0
+Avenida Frei Bartolomeu dos Mártires,2,19,2.0
+Avenida Frei Bartolomeu dos Mártires,4,17,0.5
+Avenida Frei Bartolomeu dos Mártires,4,18,0.6666666666666666
+Avenida Frei Bartolomeu dos Mártires,4,19,1.0
+Avenida General Carrilho da Silva Pinto,1,11,0.0
+Avenida General Carrilho da Silva Pinto,1,17,2.0
+Avenida General Norton de Matos,5,13,2.0
+Avenida Imaculada Conceição,0,16,2.0
+Avenida Imaculada Conceição,1,17,2.0
+Avenida Imaculada Conceição,1,18,1.3333333333333333
+Avenida Imaculada Conceição,2,17,2.0
+Avenida Imaculada Conceição,3,17,2.0
+Avenida Imaculada Conceição,4,18,2.0
+Avenida João Paulo II,0,15,2.0
+Avenida João Paulo II,1,8,2.0
+Avenida João Paulo II,1,9,0.6666666666666666
+Avenida João Paulo II,1,10,1.3333333333333333
+Avenida João Paulo II,1,11,2.0
+Avenida João Paulo II,1,12,2.0
+Avenida João Paulo II,1,13,1.0
+Avenida João Paulo II,1,14,0.6666666666666666
+Avenida João Paulo II,1,15,0.8333333333333334
+Avenida João Paulo II,1,16,0.3333333333333333
+Avenida João Paulo II,1,17,0.6666666666666666
+Avenida João Paulo II,1,18,2.0
+Avenida João Paulo II,1,19,2.0
+Avenida Olímpica,2,18,2.0
+Avenida Padre Júlio Fragata,0,15,0.0
+Avenida Padre Júlio Fragata,0,16,0.0
+Avenida Padre Júlio Fragata,0,17,0.5
+Avenida Padre Júlio Fragata,0,18,0.0
+Avenida Padre Júlio Fragata,1,16,0.0
+Avenida Padre Júlio Fragata,1,17,0.0
+Avenida Padre Júlio Fragata,1,18,0.0
+Avenida Padre Júlio Fragata,2,9,0.0
+Avenida Padre Júlio Fragata,2,15,1.5
+Avenida Padre Júlio Fragata,2,16,0.0
+Avenida Padre Júlio Fragata,2,17,0.0
+Avenida Padre Júlio Fragata,2,18,0.6666666666666666
+Avenida Padre Júlio Fragata,2,19,0.0
+Avenida Padre Júlio Fragata,3,17,0.0
+Avenida Padre Júlio Fragata,3,18,0.0
+Avenida Padre Júlio Fragata,4,16,0.0
+Avenida Padre Júlio Fragata,4,17,0.0
+Avenida Padre Júlio Fragata,4,18,0.0
+Avenida Padre Júlio Fragata,4,19,0.0
+Avenida Padre Júlio Fragata,6,17,2.0
+Avenida Ponte de Covedelo,0,16,2.0
+Avenida Ponte de Covedelo,1,16,0.0
+Avenida Ponte de Covedelo,1,17,0.8
+Avenida Ponte de Covedelo,1,18,2.0
+Avenida Ponte de Covedelo,2,17,2.0
+Avenida Ponte de Covedelo,2,18,0.0
+Avenida Ponte de Covedelo,3,17,0.0
+Avenida Ponte de Covedelo,3,18,2.0
+Avenida Ponte de Covedelo,4,17,2.0
+Avenida Ponte de Covedelo,4,18,0.0
+Avenida Robert Smith,2,18,2.0
+Avenida da Liberdade,1,9,0.0
+Avenida da Liberdade,1,14,0.0
+Avenida de São Bento,1,12,0.0
+Avenida de São Bento,1,13,0.0
+Avenida de São Bento,1,14,0.0
+Avenida de São Bento,1,15,0.0
+Avenida de São Bento,1,16,0.0
+Avenida de São Bento,1,17,0.0
+Avenida de São Pedro,1,13,0.0
+Avenida de São Pedro,1,14,0.0
+Avenida de São Pedro,1,15,0.0
+Avenida de São Pedro,1,16,0.0
+Avenida de São Pedro,1,17,0.0
+Avenida de Trezeste,0,14,2.0
+Avenida de Trezeste,0,16,0.0
+Avenida de Trezeste,0,17,1.0
+Avenida do Fojo,1,13,0.0
+Avenida do Fojo,1,14,0.0
+Avenida do Fojo,1,15,0.0
+Avenida do Fojo,1,16,0.0
+Avenida do Fojo,1,17,0.0
+Circular Norte de Braga,0,19,2.0
+Circular Norte de Braga,1,17,2.0
+Circular Norte de Braga,1,18,0.0
+Circular Norte de Braga,2,17,0.5
+Circular Norte de Braga,2,18,0.6
+Circular Norte de Braga,3,17,0.0
+Circular Norte de Braga,4,16,0.0
+Circular Norte de Braga,4,17,1.0
+Circular Norte de Braga,4,18,0.6666666666666666
+Circular Norte de Braga,4,19,1.0
+Circular Norte de Braga,5,10,0.0
+Circular Sul de Braga,2,7,0.0
+EN 101,0,13,0.0
+EN 101,0,14,0.0
+EN 101,0,17,0.5714285714285714
+EN 101,0,18,1.0
+EN 101,1,13,0.0
+EN 101,1,14,0.0
+EN 101,1,17,0.0
+EN 101,2,9,0.5
+EN 101,2,16,2.0
+EN 101,2,17,0.0
+EN 101,3,17,0.0
+EN 101,3,19,0.0
+EN 101,4,13,2.0
+EN 101,4,17,2.0
+EN 103,0,16,0.0
+EN 103,0,17,1.0
+EN 103,0,18,0.0
+EN 103,1,7,2.0
+EN 103,1,8,1.0
+EN 103,1,9,1.0
+EN 103,1,10,0.0
+EN 103,1,15,0.0
+EN 103,1,16,2.0
+EN 103,1,17,0.0
+EN 103,1,18,0.0
+EN 103,2,16,0.0
+EN 103,2,17,0.0
+EN 103,2,18,0.4
+EN 103,2,19,0.0
+EN 103,3,17,1.3333333333333333
+EN 103,3,18,1.0
+EN 103,4,17,0.0
+EN 103,4,18,0.0
+EN 14,0,7,0.0
+EN 14,0,8,0.0
+EN 14,0,14,0.0
+EN 14,0,16,0.6666666666666666
+EN 14,0,17,0.0
+EN 14,1,7,0.0
+EN 14,1,11,0.0
+EN 14,1,14,0.0
+EN 14,1,16,1.0
+EN 14,1,17,0.8571428571428571
+EN 14,1,18,0.25
+EN 14,1,19,2.0
+EN 14,2,8,0.5
+EN 14,2,17,0.5
+EN 14,2,18,0.0
+EN 14,3,17,0.4
+EN 14,3,18,0.0
+EN 14,4,8,0.0
+EN 14,4,17,0.0
+EN 14,4,18,0.0
+EN 14;EN 103,0,17,1.0
+EN 14;EN 103,0,18,1.0
+EN 14;EN 103,4,18,0.0
+EN 201,2,19,2.0
+EN 309,4,20,2.0
+EN 309,6,9,1.3333333333333333
+EN 309,6,10,0.0
+EN 309,6,11,2.0
+EN 309,6,12,2.0
+EN 309,6,14,1.0
+EN 309,6,15,0.6
+EN 309,6,17,2.0
+Largo da Estação,1,18,2.0
+Largo da Estação,2,11,2.0
+Largo da Estação,2,14,2.0
+Largo da Senhora-a-Branca,0,14,0.0
+Largo da Senhora-a-Branca,0,15,0.0
+Largo da Senhora-a-Branca,1,14,0.0
+Largo da Senhora-a-Branca,5,20,0.0
+Largo da Senhora-a-Branca,5,21,2.0
+Largo da Senhora-a-Branca,5,22,0.6666666666666666
+Largo da Senhora-a-Branca,5,23,0.0
+Largo de Infías,0,13,0.0
+Largo de Infías,0,14,1.0
+Largo de Infías,0,15,1.0
+Largo de Infías,0,16,1.0
+Largo de Infías,0,17,2.0
+Largo de Infías,0,18,2.0
+Largo de Infías,1,11,2.0
+Largo de Infías,1,14,0.0
+Largo de Infías,1,16,0.0
+Largo de Infías,1,17,2.0
+Largo de Infías,1,18,1.5
+Largo de Infías,2,8,0.0
+Largo de Infías,2,9,2.0
+Largo de Infías,2,16,0.0
+Largo de Infías,2,17,2.0
+Largo de Infías,2,18,1.4285714285714286
+Largo de Infías,2,19,2.0
+Largo de Infías,3,17,1.0
+Largo de Infías,3,18,1.6
+Largo de Infías,3,19,2.0
+Largo de Infías,4,16,2.0
+Largo de Infías,4,17,2.0
+Largo de Infías,4,18,2.0
+Largo de Infías,4,19,0.6666666666666666
+Largo de Infías,5,16,2.0
+Largo de Maximinos,0,16,2.0
+Largo de Maximinos,0,17,0.0
+Largo de Maximinos,1,17,1.0
+Largo de Maximinos,1,18,2.0
+Largo de Maximinos,2,17,0.0
+Largo de Maximinos,2,18,2.0
+Largo de Maximinos,4,18,2.0
+Largo de Maximinos,4,19,0.0
+Largo de Santa Cruz,0,18,2.0
+Largo de São João da Ponte,1,12,2.0
+None,0,14,0.0
+None,0,15,2.0
+None,0,16,2.0
+None,0,18,1.5
+None,1,7,0.0
+None,1,10,0.0
+None,1,11,0.0
+None,1,13,2.0
+None,1,15,0.0
+None,1,16,1.2
+None,1,17,1.5714285714285714
+None,1,18,1.4285714285714286
+None,1,19,2.0
+None,2,8,2.0
+None,2,9,2.0
+None,2,11,0.0
+None,2,15,2.0
+None,2,16,2.0
+None,2,17,1.6
+None,2,18,1.5
+None,3,10,0.0
+None,3,11,0.0
+None,3,13,0.0
+None,3,17,2.0
+None,3,18,2.0
+None,4,8,0.0
+None,4,16,0.0
+None,4,17,1.3333333333333333
+None,4,18,1.3333333333333333
+None,4,19,2.0
+None,5,9,0.0
+None,5,10,0.0
+None,6,2,2.0
+None,6,15,0.5
+None,6,16,0.0
+Praça do Comércio,2,17,2.0
+Rotunda Associação Jurídica de Braga,1,18,2.0
+Rotunda Santos da Cunha,3,16,2.0
+Rua 5 de Outubro,0,17,0.0
+Rua 5 de Outubro,1,17,0.0
+Rua Cidade do Porto,0,9,0.0
+Rua Cidade do Porto,0,13,0.5
+Rua Cidade do Porto,0,14,0.0
+Rua Cidade do Porto,0,15,2.0
+Rua Cidade do Porto,0,16,1.0
+Rua Cidade do Porto,0,17,0.8
+Rua Cidade do Porto,0,19,0.0
+Rua Cidade do Porto,1,11,0.0
+Rua Cidade do Porto,1,13,0.6666666666666666
+Rua Cidade do Porto,1,17,0.8333333333333334
+Rua Cidade do Porto,1,18,0.0
+Rua Cidade do Porto,2,10,0.0
+Rua Cidade do Porto,2,13,2.0
+Rua Cidade do Porto,2,16,0.0
+Rua Cidade do Porto,2,17,0.5714285714285714
+Rua Cidade do Porto,2,18,0.0
+Rua Cidade do Porto,3,10,2.0
+Rua Cidade do Porto,3,13,2.0
+Rua Cidade do Porto,3,14,0.0
+Rua Cidade do Porto,3,16,0.0
+Rua Cidade do Porto,3,17,0.0
+Rua Cidade do Porto,3,18,0.0
+Rua Cidade do Porto,4,11,2.0
+Rua Cidade do Porto,4,16,0.0
+Rua Cidade do Porto,4,17,1.0
+Rua Cidade do Porto,4,18,0.0
+Rua Cidade do Porto,4,19,2.0
+Rua Costa Gomes,1,18,2.0
+Rua Edgardo Sá Malheiro,0,17,0.0
+Rua Edgardo Sá Malheiro,0,18,0.0
+Rua Edgardo Sá Malheiro,1,17,2.0
+Rua Edgardo Sá Malheiro,2,18,0.0
+Rua Frei Bartolomeu dos Mártires,0,17,2.0
+Rua Frei Bartolomeu dos Mártires,1,9,2.0
+Rua Frei Bartolomeu dos Mártires,2,18,2.0
+Rua Frei José Vilaça,0,16,0.0
+Rua Frei José Vilaça,0,17,1.3333333333333333
+Rua Frei José Vilaça,0,18,0.0
+Rua Frei José Vilaça,1,17,0.6666666666666666
+Rua Frei José Vilaça,1,18,0.5
+Rua Frei José Vilaça,2,17,2.0
+Rua Frei José Vilaça,2,18,1.0
+Rua Frei José Vilaça,3,17,1.5
+Rua Frei José Vilaça,3,18,1.0
+Rua Frei José Vilaça,4,16,1.0
+Rua Frei José Vilaça,4,17,0.6666666666666666
+Rua Frei José Vilaça,4,18,0.6666666666666666
+Rua Gabriel Pereira de Castro,1,9,0.0
+Rua Gabriel Pereira de Castro,4,17,0.0
+Rua Infante Dom Henrique,1,8,2.0
+Rua Infante Dom Henrique,1,13,0.0
+Rua Infante Dom Henrique,1,15,2.0
+Rua Nova da Estação,4,17,1.0
+Rua Nova de Santa Cruz,1,9,2.0
+Rua Nova de Santa Cruz,1,17,0.0
+Rua Padre Cruz,0,16,2.0
+Rua Padre Cruz,0,17,2.0
+Rua Padre Cruz,0,18,2.0
+Rua Padre Cruz,1,17,2.0
+Rua Padre Cruz,1,18,2.0
+Rua Padre Cruz,2,17,2.0
+Rua Padre Cruz,2,18,2.0
+Rua Padre Cruz,3,17,2.0
+Rua Padre Cruz,4,16,2.0
+Rua Padre Cruz,4,18,2.0
+Rua Pre. Silva Gonçalves,6,14,2.0
+Rua Pre. Silva Gonçalves,6,15,2.0
+Rua Professora Alda Brandão,0,17,0.0
+Rua da Bela Vista,1,7,1.0
+Rua da Bela Vista,1,8,1.0
+Rua da Bela Vista,1,10,1.0
+Rua da Bela Vista,1,11,1.0
+Rua da Bela Vista,1,14,1.0
+Rua da Bela Vista,1,15,1.0
+Rua da Estrada Nova,1,6,0.0
+Rua da Estrada Nova,1,12,2.0
+Rua da Estrada Nova,1,17,0.0
+Rua da Feira,4,18,0.0
+Rua da Igreja Nova,1,11,2.0
+Rua da Lameira,1,8,1.0
+Rua da Lameira,1,10,2.0
+Rua da Lameira,1,12,2.0
+Rua da Lameira,1,13,2.0
+Rua da Lameira,1,15,0.0
+Rua da Lameira,1,16,2.0
+Rua da Lameira,1,17,2.0
+Rua da Universidade,1,13,0.0
+Rua das Oliveiras,1,17,1.0
+Rua de Camões,0,8,1.0
+Rua de Camões,0,9,2.0
+Rua de Camões,0,14,2.0
+Rua de Camões,0,15,0.0
+Rua de Camões,0,16,2.0
+Rua de Camões,0,17,2.0
+Rua de Camões,0,18,2.0
+Rua de Camões,1,10,2.0
+Rua de Camões,1,14,0.0
+Rua de Camões,1,18,0.0
+Rua de Camões,2,17,2.0
+Rua de Camões,2,18,2.0
+Rua de Camões,4,14,0.0
+Rua de Camões,4,18,2.0
+Rua de Camões,4,19,2.0
+Rua de Santa Margarida,0,7,2.0
+Rua de Santa Margarida,0,15,2.0
+Rua de Santa Margarida,0,16,2.0
+Rua de Santa Margarida,0,17,0.6666666666666666
+Rua de Santa Margarida,1,9,2.0
+Rua de Santa Margarida,1,15,2.0
+Rua de Santa Margarida,1,17,2.0
+Rua de Santa Margarida,2,8,2.0
+Rua de Santa Margarida,4,14,2.0
+Rua de Santa Margarida,4,15,1.0
+Rua de Santa Margarida,4,17,2.0
+Rua de São Martinho,2,18,2.0
+Rua de São Martinho,2,21,0.0
+Rua de São Martinho,4,21,0.0
+Rua de Vimieiro,0,16,0.0
+Rua do Caires,0,16,2.0
+Rua do Caires,1,17,0.0
+Rua do Caires,2,18,0.0
+Rua do Caires,3,14,2.0
+Rua do Caires,3,17,0.0
+Rua do Caires,3,18,0.0
+Rua do Caires,4,17,1.0
+Rua do Caires,4,18,2.0
+Rua do Fojo,1,7,1.0
+Rua do Fojo,1,8,1.5
+Rua do Fojo,1,9,1.0
+Rua do Fojo,1,10,1.3333333333333333
+Rua do Fojo,1,11,0.0
+Rua do Marco,1,11,1.0
+Rua dos Chãos,0,10,0.0
+Rua dos Chãos,0,14,0.0
+Rua dos Chãos,0,15,0.0
+Rua dos Chãos,0,16,0.0
+Rua dos Chãos,1,10,0.0
+Rua dos Chãos,1,11,0.0
+Rua dos Chãos,1,16,0.0
+Rua dos Chãos,2,15,0.0
+Rua dos Chãos,2,16,0.0
+Rua dos Chãos,2,18,0.0
+Rua dos Chãos,3,11,0.0
+Rua dos Chãos,3,15,0.0
+Rua dos Chãos,3,16,0.0
+Rua dos Chãos,3,18,0.0
+Rua dos Chãos,4,15,0.0
+Rua dos Chãos,4,17,0.0
+Rua dos Chãos,4,18,0.0
+Rua dos Chãos,4,19,0.0
+Rua dos Chãos,5,9,0.0
+Rua dos Chãos,5,10,0.0
+Rua dos Chãos,5,11,0.0
+Rua dos Chãos,5,14,0.0
+Rua dos Presidentes,0,17,0.0
+Travessa do Feital,2,18,2.0
+Travessa do Feital,4,18,2.0
+Variante Sul de Braga,0,16,2.0
+Variante Sul de Braga,1,17,2.0
+Variante Sul de Braga,1,18,0.0
+Variante Sul de Braga,3,17,2.0
+Variante Sul de Braga,4,7,0.0
+Variante Sul de Braga,6,17,2.0
+Variante de Real,0,17,0.0
+Variante de Real,2,18,2.0
+Variante de Real,4,18,2.0
+Variante do Fojo,1,11,0.0
+Variante do Fojo,1,12,0.0
+Via Rápida Bom Jesus,1,15,2.0
+Via Rápida Bom Jesus,1,16,2.0
+Via Rápida Bom Jesus,1,17,2.0
+Via da Falperra,6,8,0.0
+Via da Falperra,6,13,0.0
+Via da Falperra,6,14,0.0
+Via da Falperra,6,15,1.0
+Via da Falperra,6,16,1.3333333333333333
+Via da Falperra,6,17,2.0
+Via da Falperra,6,18,0.0

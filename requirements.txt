@@ -7,3 +7,4 @@ jupyter
 seaborn
 matplotlib
 scikit-learn
+tensorflow==2.0.0-alpha0
