@@ -1,5 +1,7 @@
 # Traffic Flow Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hmatalonga/traffic-flow/blob/master/notebooks/LSTMFlow.ipynb)
+
 Academic project built to predict traffic conditions for Braga city center, Portugal.
 
 Datasets used can be found at `notebooks/data` folder.
